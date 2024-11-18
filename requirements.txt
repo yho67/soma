@@ -1,4 +1,4 @@
-git+https://github.com/yho67/body_visualizer.git@SOMA
+git+https://github.com/yho67/body_visualizer.git
 git+https://github.com/yho67/body_visualizer.git
 git+https://github.com/yho67/configer.git
 imageio
